@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pracitce28_PR_315</string>
+    <string name="next_activity">Next activity</string>
+    <string name="tvText">TextView</string>
+    <string name="left_to_right_swipe">Left to right swipe</string>
+    <string name="button_is_clicked">Button is clicked</string>
+    <string name="main_screen">Main screen</string>
+</resources>
